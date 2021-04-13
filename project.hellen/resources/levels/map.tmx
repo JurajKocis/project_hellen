@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" width="30" height="30" tilewidth="16" tileheight="16">
+ <tileset firstgid="1" name="tileset09" tilewidth="16" tileheight="16">
+  <image source="tilesets/tileset09.png" width="320" height="400"/>
+ </tileset>
+ <tileset firstgid="501" name="tileset11-1" tilewidth="16" tileheight="16">
+  <image source="tilesets/tileset11-1.png" width="320" height="400"/>
+ </tileset>
+ <tileset firstgid="1001" name="tileset11-2" tilewidth="16" tileheight="16">
+  <image source="tilesets/tileset11-2.png" width="320" height="400"/>
+ </tileset>
+ <layer name="background" width="30" height="30">
+  <data encoding="base64" compression="gzip">
+   H4sIAAAAAAAAC72WOW4UQRiFW+PqjGRmOIBZZjwSJ2gzGRC63ZAAEczCCUCChOUCBCwXIGARGEIixJZAiNgSCBHrBRBgxPvleepX/5QbS0gEn1TVXfW/qr9eLc9Clt3/zzwHF8G3hSzLQkwHdMH2WbmT+Mayr6faaHlPq1mX9IUlMHBlX0+10TJ1V8BtcAesgbvgnmgtC3vB0JV9PdVGy9QtwEPwCDwGT8DT2VxtjGfzLDsHzoNV1CtQNvxbdd/Znv91vi/BK/AavAFvJTeX0PcyuAImqE/BeDb+1L+J+z7dZH1tvh/BJ/AZfAFfJTfX0fcGuJlvjIXr7v9Rt3Lfm9b3B/gJfoF18NvlRteaZXpu7NpOHZutb8rPzCXnQF+VUlbPaduOqx/DnI+DIo/XN6Wr+7Y/0ytlbqWMo0yMp++0tWy6h1r/dvYc3GL/BbRbX4h9ZXV6ze85zmksY56YR8EFlK/N+i+ivgPsBLvAbtAzH4KlfKNd2/mqLV5Tf9D7miNrcxpxzoCroY7HsQzc2NnX2vWcr3qJdtNQe1a/DUN9Nt6SeBzL0I1ddYsQ+6pwc2Re6RHVrUJ9Nj6QeFP5n/KTtVsRX3H/6hy5lmWDtvFC4k1CvF8Hbp2s3SjEvhqF2FfUUO2xi218kHipnKR01VfmR/VV1ZrfA0WIz1jLwXfJs/eB9yV9r74yP6qvGMuvjepaDrbl9T/vQeqobjvEvjI/qv8YS8dfhvk3x2Je58/7gDqq2wuxr4oQ+8/Pl9/7TreUeen7RHW6Lqa/jxgrNV/GXhZdanBe+hZSnY6LqetreaKvtI/mvT2bn95/fZkX75xTeayj4xi59bW5eF9xj1cSW88Snt0co95LqsM96O8j+lnfm5qjrtTVy9TQNVGYI71P/TunF+L3JnX4NmFs3eMafxTqO0PXqicxU++cQtbnpOxJ3iuMrWvh7woPx673qX/nmIa+T63PPujvBwdkHPp+qv4C+zCmwbtS/ez372H8PwKOytngz+cmNP/MD+9K030X5t8kJ1rN9a3Q1Oc9+AN+JH4aEA4AAA==
+  </data>
+ </layer>
+ <layer name="walls" width="30" height="30">
+  <data encoding="base64" compression="gzip">
+   H4sIAAAAAAAAC+2XPQ6DMBSDkXL/nUNwiNyhWbL1XzlGw1Rq8VwnTZqhteSFgD89cEBEN01xgE/Z5+xL9jX7ln3P7qmR3NiZ8Qn34J5W19g1f+539Kv76Ej4e8fY+WwNuaXadmZxr1mWl8ZcD1xLvgEX+UrW3In7Ti3ucw239X2exeuDwN32hs1UMm8SuAscq+FirtIrL86wMoPIVXplZe0piVylV5jFnqHVK8xVeoVZrLPYBYtb0ysre5XVBbY/1XlZz9ReKVycj/VM7ZXCxfmsbKYaboB3Vcm+Ylz8JqMScFvNO+I/DP0A959TQxAOAAA=
+  </data>
+ </layer>
+ <objectgroup name="objects" width="30" height="30"/>
+</map>
